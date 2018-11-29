@@ -1,0 +1,8 @@
+192.168.50.48 - - [29/Nov/2018:09:56:07 +0000] "GET / HTTP/1.1" 200 24332 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.104 Safari/537.36"
+192.168.50.48 - - [29/Nov/2018:09:56:07 +0000] "GET /favicon.ico HTTP/1.1" 404 564 "http://192.168.3.253:8082/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.104 Safari/537.36"
+192.168.50.48 - - [29/Nov/2018:09:56:20 +0000] "GET / HTTP/1.1" 200 24063 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+192.168.50.48 - - [29/Nov/2018:09:56:21 +0000] "GET /favicon.ico HTTP/1.1" 404 162 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+192.168.50.48 - - [29/Nov/2018:09:56:31 +0000] "GET /index.html HTTP/1.1" 404 162 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+192.168.50.48 - - [29/Nov/2018:09:56:31 +0000] "GET /favicon.ico HTTP/1.1" 404 162 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+192.168.50.48 - - [29/Nov/2018:09:56:55 +0000] "GET /index.html HTTP/1.1" 200 35 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+192.168.50.48 - - [29/Nov/2018:09:56:55 +0000] "GET /favicon.ico HTTP/1.1" 404 162 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
