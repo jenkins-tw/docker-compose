@@ -6,4 +6,5 @@ services:
         ports:
             - "88:80"
         volumes:
-            - ./conf:/usr/local/apache2/conf:rw
+#            - ./apache/conf:/usr/local/apache2/conf:rw
+             - /home/docker-com/docker-compose/nginx-apache/apache/conf:/usr/local/apache2/conf
