@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+    httpd:
+        image: daocloud.io/library/httpd:2.4
+        ports:
+            - "88:80"
+        volumes:
+            - ./conf:/usr/local/apache2/conf:rw

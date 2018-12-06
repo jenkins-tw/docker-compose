@@ -16,8 +16,6 @@ services:
         image: centos7-php:v7.1.12
         volumes:
             - ./nginx/html:/usr/share/nginx/html
-            - ./php/www.conf:/usr/local/php/etc/php-fpm.d/www.conf
-            - ./php/php.ini:/etc/php/php.ini
             - ./php:/home
         networks:
             - code-network
